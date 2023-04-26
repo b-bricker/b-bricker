@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @b-bricker
-- 👀 I’m interested in Node, Angular, TypeScript, Go, Python, CI/CD, Automation, AWS
+- 👀 I’m interested in Node, React, Angular, TypeScript, Go, Python, CI/CD, Automation, and AWS
 
 <!---
 b-bricker/b-bricker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
